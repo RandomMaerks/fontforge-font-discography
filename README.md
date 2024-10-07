@@ -95,6 +95,7 @@ To contribute or request for a removal, you can make an issue or a pull request.
 | [Richard Sepši](https://github.com/RichardSepsi) | Unageo | https://github.com/RichardSepsi/Unageo |
 | | | |
 | [Sean Petykowski](https://github.com/petykowski) | London TFL Dot Matrix | https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface |
+| | | |
 | [Slavfox](https://github.com/slavfox) | Cozette | https://github.com/slavfox/Cozette |
 | | | |
 | [Stefan Peev](https://github.com/StefanPeev) | Grazhdanskiy Shrift | https://github.com/StefanPeev/Grazhdanskiy-Shrift |
