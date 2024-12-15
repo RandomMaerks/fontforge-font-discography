@@ -52,6 +52,8 @@ To contribute or request for a removal, you can make an issue or a pull request.
 | [Corne2Plum3](https://github.com/Corne2Plum3) | Giphurs | https://github.com/Corne2Plum3/Giphurs |
 | | Pixel12x10 | https://github.com/Corne2Plum3/Pixel12x10 |
 | | | |
+| [Culmus Fonts](https://culmus.sourceforge.io/index.html) | Fancy fonts (15 typefaces) | https://culmus.sourceforge.io/fancy/index.html |
+| | | |
 | [Daniel Benjamin Miller](https://github.com/dbenjaminmiller) | Garamond Libre | https://github.com/dbenjaminmiller/garamond-libre |
 | | Step | https://github.com/dbenjaminmiller/step |
 | | Domitian | https://github.com/dbenjaminmiller/domitian |
