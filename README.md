@@ -16,24 +16,24 @@ To contribute or request for a removal, you can make an issue or a pull request.
 ## Collection
 | Designer/Foundry | Typeface | Link |
 | :---: | --- | --- |
-| [Adám Brudzewsky](https://github.com/abrudz/APL386) | APL386 | https://github.com/abrudz/APL386 |
+| [Adám Brudzewsky](https://github.com/abrudz) (abrudz) | APL386 | https://github.com/abrudz/APL386 |
 | | SAX2 | https://github.com/abrudz/SAX2 |
 | | APL2741 | https://github.com/abrudz/APL2741 |
 | - | | |
-| [Alexander Sapozhnikov](https://github.com/shoorick) | Russian Road Sign | https://github.com/shoorick/russian-road-sign-font |
+| [Alexander Sapozhnikov](https://github.com/shoorick) (shoorick) | Russian Road Sign | https://github.com/shoorick/russian-road-sign-font |
 | | Sivtsev Eye Chart | https://github.com/shoorick/sivtsev-font |
 | - | | |
-| [Alexey Kryukov](https://github.com/akryukov) | Oldstand | https://github.com/akryukov/oldstand |
+| [Alexey Kryukov](https://github.com/akryukov) (akryukov) | Oldstand | https://github.com/akryukov/oldstand |
 | | Theano | https://github.com/akryukov/theano |
 | | Monomachus | https://github.com/akryukov/monomachus |
 | - | | |
 | [Altinn](https://github.com/Altinn) | Altinn-Din | https://github.com/Altinn/altinn-din |
 | - | | |
-| [Andrey Makarov](https://github.com/loafer-mka) | Anka/Coder | https://github.com/loafer-mka/anka-coder-fonts |
+| [Andrey Makarov](https://github.com/loafer-mka) (loafer-mka) | Anka/Coder | https://github.com/loafer-mka/anka-coder-fonts |
 | - | | |
 | [blobject](https://github.com/blobject) (agaric/b) | Agave | https://github.com/blobject/agave |
 | - | | |
-| [Bronnel721](https://github.com/Bronnel721) | Mahone Sans | https://github.com/Bronnel721/Mahone-Sans |
+| [Bronnel](https://github.com/Bronnel721) (Bronnel721) | Mahone Sans | https://github.com/Bronnel721/Mahone-Sans |
 | | Rally Display | https://github.com/Bronnel721/Rally-Display |
 | | Zamero Sans | https://github.com/Bronnel721/Zamero-Sans |
 | | Joosper | https://github.com/Bronnel721/Joosper |
@@ -58,7 +58,7 @@ To contribute or request for a removal, you can make an issue or a pull request.
 | - | | |
 | [BRUTALISM](https://github.com/BRUTALISM) | Brutalist Mono | https://github.com/BRUTALISM/Brutalist |
 | - | | |
-| [Bry10022](https://github.com/Bry10022) | Gewtymol | https://github.com/Bry10022/Gewtymol |
+| [Bryndan W. Meyerholt](https://github.com/Bry10022) (Bry10022) | Gewtymol | https://github.com/Bry10022/Gewtymol |
 | | Lentariso | https://github.com/Bry10022/Lentariso |
 | | Consettro | https://github.com/Bry10022/Consettro |
 | | Yftoowhy | https://github.com/Bry10022/YftoowhyFont |
@@ -71,7 +71,7 @@ To contribute or request for a removal, you can make an issue or a pull request.
 | - | | |
 | [Culmus Fonts](https://culmus.sourceforge.io/index.html) | Fancy fonts (15 typefaces) | https://culmus.sourceforge.io/fancy/index.html |
 | - | | |
-| [Daniel Benjamin Miller](https://github.com/dbenjaminmiller) | Garamond Libre | https://github.com/dbenjaminmiller/garamond-libre |
+| [Daniel Benjamin Miller](https://github.com/dbenjaminmiller) (dbenjaminmiller) | Garamond Libre | https://github.com/dbenjaminmiller/garamond-libre |
 | | Step | https://github.com/dbenjaminmiller/step |
 | | Domitian | https://github.com/dbenjaminmiller/domitian |
 | | Salieri | https://github.com/dbenjaminmiller/salieri |
@@ -80,13 +80,13 @@ To contribute or request for a removal, you can make an issue or a pull request.
 | | Regis | https://github.com/dbenjaminmiller/regis |
 | | XETBook | https://github.com/dbenjaminmiller/xetbook |
 | - | | |
-| [Dave Crossland](https://github.com/davelab6) | Libre Moretus | https://github.com/davelab6/libre-moretus |
+| [Dave Crossland](https://github.com/davelab6) (davelab6) | Libre Moretus | https://github.com/davelab6/libre-moretus |
 | - | | |
 | [DejaVu Fonts](https://github.com/dejavu-fonts) | DejaVu | https://github.com/dejavu-fonts/dejavu-fonts |
 | - | | |
 | [Evolventa](https://github.com/evolventa) | Evolventa | https://github.com/evolventa/evolventa |
 | - | | |
-| [Fredrick Brennan](https://github.com/ctrlcctrlv) | TT2020 | https://github.com/ctrlcctrlv/TT2020 |
+| [Fredrick Brennan](https://github.com/ctrlcctrlv) (ctrlcctrlv) | TT2020 | https://github.com/ctrlcctrlv/TT2020 |
 | | KJV1611 | https://github.com/ctrlcctrlv/kjv1611 |
 | | Some Time Later | https://github.com/ctrlcctrlv/some-time-later |
 | | Chomsky | https://github.com/ctrlcctrlv/chomsky |
@@ -99,7 +99,7 @@ To contribute or request for a removal, you can make an issue or a pull request.
 | - | | |
 | [Fuzzypeg](https://github.com/Fuzzypeg) | Coelacanth | https://github.com/Fuzzypeg/Coelacanth |
 | - | | |
-| [Georg Mayr-Duffner](https://github.com/georgd) | EB Garamond | https://github.com/georgd/EB-Garamond |
+| [Georg Mayr-Duffner](https://github.com/georgd) (georgd) | EB Garamond | https://github.com/georgd/EB-Garamond |
 | - | | |
 | [indestructible type*](https://github.com/indestructible-type) | Cooper | https://github.com/indestructible-type/Cooper |
 | | Drafting | https://github.com/indestructible-type/Drafting |
@@ -114,9 +114,9 @@ To contribute or request for a removal, you can make an issue or a pull request.
 | [Interstices](https://github.com/Interstices-) | Manifont Grotesk | https://github.com/Interstices-/Manifont-Grotesk |
 | | Manifont Serif | https://github.com/Interstices-/Manifont-Serif |
 | - | | |
-| [Jacob Perez](https://github.com/jacobxperez) | Lexica Ultralegible | https://github.com/jacobxperez/lexica-ultralegible |
+| [Jacob Perez](https://github.com/jacobxperez) (jacobxperez) | Lexica Ultralegible | https://github.com/jacobxperez/lexica-ultralegible |
 | - | | |
-| [Jany Belluz](https://github.com/belluzj) | Fantasque Sans Mono | https://github.com/belluzj/fantasque-sans |
+| [Jany Belluz](https://github.com/belluzj) (belluzj) | Fantasque Sans Mono | https://github.com/belluzj/fantasque-sans |
 | - | | |
 | [KreativeKorp](http://www.kreativekorp.com/) | Fairfax HD | http://www.kreativekorp.com/software/fonts/fairfaxhd/ |
 | | Constructium | http://www.kreativekorp.com/software/fonts/constructium/ |
@@ -142,25 +142,35 @@ To contribute or request for a removal, you can make an issue or a pull request.
 | - | | |
 | [rellikmil](https://github.com/rellikmil) | Teleindicadores1 | https://github.com/rellikmil/Teleindicadores1 |
 | - | | |
-| [Ricardo Bánffy](https://github.com/rbanffy) | 3270 | https://github.com/rbanffy/3270font |
+| [Ricardo Bánffy](https://github.com/rbanffy) (rbanffy) | 3270 | https://github.com/rbanffy/3270font |
 | | 2250 | https://github.com/rbanffy/2250font |
 | - | | |
 | [Richard Sepši](https://github.com/RichardSepsi) | Unageo | https://github.com/RichardSepsi/Unageo |
 | - | | |
-| [Romeo Van Snick](https://github.com/romeovs) | Creep | https://github.com/romeovs/creep |
+| [Roland Bernard](https://github.com/rolandbernard) (rolandbernard) | Roland | https://github.com/rolandbernard/roland-font |
 | - | | |
-| [Ryusei Yamaguchi](https://github.com/mandel59) | Mutsuki | https://github.com/mandel59/mutsuki |
+| [Romeo Van Snick](https://github.com/romeovs) (romeovs) | Creep | https://github.com/romeovs/creep |
 | - | | |
-| [Sean Petykowski](https://github.com/petykowski) | London TFL Dot Matrix | https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface |
+| [Ryusei Yamaguchi](https://github.com/mandel59) (mandel59) | Mutsuki | https://github.com/mandel59/mutsuki |
+| - | | |
+| [Sean Petykowski](https://github.com/petykowski) (petykowski) | London TFL Dot Matrix | https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface |
 | - | | |
 | [Slavfox](https://github.com/slavfox) | Cozette | https://github.com/slavfox/Cozette |
+| - | | |
+| [slavonic](https://github.com/slavonic) | Mezenets/Shaidur/Smolensky/Stolp | https://github.com/slavonic/fonts-znam |
+| | Monomakh | https://github.com/slavonic/Monomakh |
+| | Pochaevsk | https://github.com/slavonic/Pochaevsk |
+| | Ponomar | https://github.com/slavonic/Ponomar |
+| | Triodion | https://github.com/slavonic/Triodion |
+| | Shafarik | https://github.com/slavonic/Shafarik |
+| | Fira Slav | https://github.com/slavonic/FiraSlav |
 | - | | |
 | [Stefan Peev](https://github.com/StefanPeev) | Grazhdanskiy Shrift | https://github.com/StefanPeev/Grazhdanskiy-Shrift |
 | | Libra Sans | https://github.com/StefanPeev/Libra-Sans |
 | - | | |
 | [WeirdoOnTheBus](https://github.com/weirdoonthebus) | Kepler-452b | https://github.com/weirdoonthebus/Kepler-452b |
 | - | | |
-| [Wojciech Kalinowski](https://github.com/wmk69) | Consola Mono | https://github.com/wmk69/Consola-Mono |
+| [Wojciech Kalinowski](https://github.com/wmk69) (wmk69) | Consola Mono | https://github.com/wmk69/Consola-Mono |
 | | Square Antiqua | https://github.com/wmk69/Square-Antiqua |
 | | Modern Antiqua | https://github.com/wmk69/Modern-Antiqua |
 | | Medieval Sharp | https://github.com/wmk69/Medieval-Sharp |
@@ -177,3 +187,5 @@ To contribute or request for a removal, you can make an issue or a pull request.
 | | Classica | https://github.com/wmk69/Classica |
 | | Celtica | https://github.com/wmk69/Celtica |
 | | Berenika | https://github.com/wmk69/Berenika |
+| - | | |
+| [zsh](https://github.com/zsh-89) (zsh-89) | Fira Mono Mz | https://github.com/zsh-89/FiraMonoMz |
